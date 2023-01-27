@@ -28,20 +28,3 @@
   }
 
 
-// // Edit Name
-// let player1 = "Player1";
-// let player2 = "Player2";
-// function editNames() {
-  
-//   player1 = prompt("Change Player 1");
-//   player2 = prompt("Change Player 2");
-
-//   if(player1.length < 1 || player2.length < 1){
-//     alert("Please Enter a valid name");
-//     return;
-//   }
-//   document.querySelector("p.Player1").innerHTML = player1;
-//   document.querySelector("p.Player2").innerHTML = player2;
-// }
-
-
